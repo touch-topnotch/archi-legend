@@ -1,0 +1,20 @@
+[project]
+name = "legend"
+version = "0.1.0"
+description = "Lightweight Encyclopedia-Guided ENcoding for Drawings"
+requires-python = ">=3.11"
+dependencies = [
+    "pymupdf>=1.24",
+    "pymorphy3",
+    "pymorphy3-dicts-ru",
+    "ifcopenshell",
+    "shapely",
+    "scipy",
+    "networkx",
+    "pydantic>=2",
+    "httpx",
+    "pandas",
+    "matplotlib",
+    "python-dotenv",
+    "jupyter",
+]

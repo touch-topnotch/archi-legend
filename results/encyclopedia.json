@@ -1,0 +1,190 @@
+{
+  "project": "industrial MFC, anonymised",
+  "storeys": 4,
+  "floors": [
+    {
+      "floor_id": "0",
+      "elevation_m": -4.3,
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      },
+      "counts": {
+        "walls": 1067,
+        "columns": 0,
+        "slabs": 0,
+        "grids": 0
+      },
+      "notes": [
+        "vector-text spans: 89",
+        "vector drawings: 7080"
+      ]
+    },
+    {
+      "floor_id": "1",
+      "elevation_m": 0.0,
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      },
+      "counts": {
+        "walls": 1030,
+        "columns": 0,
+        "slabs": 0,
+        "grids": 0
+      },
+      "notes": [
+        "vector-text spans: 91",
+        "vector drawings: 9964"
+      ]
+    },
+    {
+      "floor_id": "2",
+      "elevation_m": 4.2,
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      },
+      "counts": {
+        "walls": 919,
+        "columns": 0,
+        "slabs": 0,
+        "grids": 0
+      },
+      "notes": [
+        "vector-text spans: 90",
+        "vector drawings: 6350"
+      ]
+    },
+    {
+      "floor_id": "3",
+      "elevation_m": 7.2,
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      },
+      "counts": {
+        "walls": 372,
+        "columns": 0,
+        "slabs": 0,
+        "grids": 0
+      },
+      "notes": [
+        "vector-text spans: 80",
+        "vector drawings: 3567"
+      ]
+    }
+  ]
+}

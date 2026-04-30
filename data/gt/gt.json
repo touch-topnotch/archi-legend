@@ -1,0 +1,238 @@
+{
+  "schema": "IFC2X3",
+  "project": "industrial MFC, anonymised",
+  "n_storeys": 5,
+  "totals": {
+    "walls": 258,
+    "columns": 130,
+    "slabs": 103,
+    "grids": 5
+  },
+  "floors": [
+    {
+      "ifc_name": "-2. Этаж",
+      "floor_id": "B2",
+      "elevation_m": 0.0,
+      "counts": {
+        "walls": 12,
+        "columns": 0,
+        "slabs": 2,
+        "grids": 0,
+        "roofs": 0,
+        "proxies": 6
+      },
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      }
+    },
+    {
+      "ifc_name": "-4,300 минус 1 этаж",
+      "floor_id": "0",
+      "elevation_m": 0.0,
+      "counts": {
+        "walls": 220,
+        "columns": 130,
+        "slabs": 62,
+        "grids": 0,
+        "roofs": 24,
+        "proxies": 96
+      },
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      }
+    },
+    {
+      "ifc_name": "+0,000 1 этаж",
+      "floor_id": "1",
+      "elevation_m": 0.0,
+      "counts": {
+        "walls": 10,
+        "columns": 0,
+        "slabs": 38,
+        "grids": 5,
+        "roofs": 0,
+        "proxies": 0
+      },
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      }
+    },
+    {
+      "ifc_name": "+4,200 2 этаж",
+      "floor_id": "2",
+      "elevation_m": 7.5,
+      "counts": {
+        "walls": 4,
+        "columns": 0,
+        "slabs": 0,
+        "grids": 0,
+        "roofs": 0,
+        "proxies": 0
+      },
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      }
+    },
+    {
+      "ifc_name": "+7,200 3 этаж",
+      "floor_id": "3",
+      "elevation_m": 15.0,
+      "counts": {
+        "walls": 12,
+        "columns": 0,
+        "slabs": 1,
+        "grids": 0,
+        "roofs": 0,
+        "proxies": 0
+      },
+      "envelope": {
+        "width_m": 82.5,
+        "depth_m": 75.0,
+        "axes_x": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "axes_y": [
+          "А",
+          "Б",
+          "В",
+          "Г",
+          "Д",
+          "Е",
+          "Ж",
+          "И",
+          "К",
+          "Л",
+          "М"
+        ],
+        "grid_step_m": 7.5
+      }
+    }
+  ]
+}
